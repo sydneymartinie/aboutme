@@ -1,0 +1,12 @@
+body {
+    background: black;
+    color: white;
+    font-family: arial;
+}
+    #content {
+  width: 600px;
+  background: #fff;
+  border: 2px solid white;
+  padding: 20px; 
+  margin: 20px auto; 
+}
